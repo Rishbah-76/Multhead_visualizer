@@ -12,8 +12,9 @@ This application provides a step-by-step walkthrough, demystifying complex opera
 
 See the interactive visualizer in action! The animation below walks through each step of the attention calculation, from the initial input to the final output.
 
-https://github.com/user-attachments/assets/186a1005-59c4-42f1-a128-09516ca4d0b1
 
+[DEMO
+](https://github.com/Rishbah-76/Multhead_visualizer/blob/main/demo/Streamlit_multihead.mp4)
 *(This video is from `demo/streamlit_multihead.mp4`)*
 
 ---
